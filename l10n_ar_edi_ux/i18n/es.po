@@ -1,10 +1,10 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # 	* l10n_ar_edi_ux
-# 
+#
 # Translators:
 # Juan José Scarafía <scarafia.juanjose@gmail.com>, 2022
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 15.0+e\n"
@@ -329,7 +329,7 @@ msgstr ""
 #. module: l10n_ar_edi_ux
 #: code:addons/l10n_ar_edi_ux/models/l10n_ar_afipws_connection.py:0
 #, python-format
-msgid "Servicio de Consulta de Padrón Alcance 5"
+msgid "Servicio de Consulta a Padrón Constancia de Inscripción (ex A5)"
 msgstr ""
 
 #. module: l10n_ar_edi_ux
